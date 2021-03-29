@@ -5,7 +5,7 @@ Simple analysis of traffic accidents that occured in the city of Belgrade from 2
 - sum.csv summarized data about weather of every day in Belgrade(2015-2021). Data includes high-low-average temperature, precipitation, max wind, pressure, including historic average for every listed measurement and also time of sunset-sunrise. Measurement units are same as in obs.csv. Scrapped from www.wunderground.com
 - 2015-2020.csv contains data about every recorded traffic accident in Serbia by police stations and municipalities. Data downloaded from: data.gov.rs
 
-#### Viewing
+### Viewing:
 It is either possible to import HTML/ipynb files into databricks, or to go to:
-- Data prep: bit.ly/3w8aLof
-- Analysis: bit.ly/2O76Qaa
+- Data prep: https://bit.ly/3w8aLof
+- Analysis: https://bit.ly/2O76Qaa
